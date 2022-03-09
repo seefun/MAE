@@ -1,3 +1,7 @@
+**Note**: this repo duplicates the [official code](https://github.com/facebookresearch/mae) but adapts it to timm>=0.4.12, see [issue](https://github.com/facebookresearch/mae/issues/17).
+
+---------------------------------
+
 ## Masked Autoencoders: A PyTorch Implementation
 
 <p align="center">
